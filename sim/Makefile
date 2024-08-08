@@ -1,0 +1,4 @@
+include ../tech/make/sim.make
+
+LIB=CIC_CURRENT_MIRROR_SKY130NM
+CELL=CIC_CURRENT_MIRROR
